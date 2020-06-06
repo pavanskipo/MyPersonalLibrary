@@ -192,7 +192,8 @@ background-color: #380949;
 }
 
 .btn-abt-me, .btn-abt-me:hover{
-    color: #067BC2;
+    color: #fff;
+    background: #067BC2;
 }
 
 .jumbotron p {
