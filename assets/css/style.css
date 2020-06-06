@@ -169,7 +169,7 @@ opacity: 1;
 .buy-buttons {
     width: 8em;
     height: 3em;
-    margin-top: 20.5em;
+    margin-top: 20em;
 }
 
 .btn-buy, .btn-buy:focus {
@@ -193,4 +193,18 @@ background-color: #380949;
 
 .btn-abt-me, .btn-abt-me:hover{
     color: #067BC2;
+}
+
+.jumbotron p {
+    font-weight: 400 !important;
+}
+
+.jumbotron>hr {
+    border-top-color: rgba(232, 232, 232, 0.3) !important;
+}
+
+.jumbotron {
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.85)),
+     url(../home-bg.jpg);
+     color: white;
 }
