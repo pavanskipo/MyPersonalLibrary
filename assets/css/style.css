@@ -196,6 +196,10 @@ background-color: #380949;
     background: #067BC2;
 }
 
+.disabled {
+    cursor: not-allowed;
+}
+
 .jumbotron p {
     font-weight: 400 !important;
 }
